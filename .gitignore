@@ -1,0 +1,8 @@
+node_modules/
+.eslintrc.json
+.runtimeconfig.json
+firebase-debug.log
+package-lock.json
+util/key.json
+util/config.js
+.DS_Store
